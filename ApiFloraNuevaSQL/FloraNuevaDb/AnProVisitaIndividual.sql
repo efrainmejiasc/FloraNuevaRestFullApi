@@ -1,0 +1,4 @@
+  SELECT * FROM ProductorAbejasNativasVisitaIndividual
+  SELECT * FROM ProductorAbejasNativasVisitaIndividualAccionCorrectivaObligatoria
+  SELECT * FROM ProductorAbejasNativasVisitaIndividualColmenasEnCaja
+  SELECT * FROM ProductorAbejasNativasVisitaIndividualColmenasEnTrampa
